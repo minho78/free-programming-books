@@ -1,5 +1,4 @@
 # List of Free Learning Resources In Many Languages
-# Change
 
 <div align="center" markdown="1">
 
